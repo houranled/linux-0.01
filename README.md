@@ -3,7 +3,7 @@
 1)Download Source Code
 https://github.com/mahadevvinay/Linux_0.01.git
 
-2) Apply the Patch 
+2)Apply the Patch 
 $cd linux
 patch -p1 < 	linux_0.01_Compilations_changes.patch
 
